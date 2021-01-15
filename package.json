@@ -1,6 +1,6 @@
 {
-  "name": "react-native-otp-verify",
-  "version": "1.0.1",
+  "name": "webessentials/react-native-otp-verify",
+  "version": "2.0.0",
   "description": "React native sms verification without additional permissions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
